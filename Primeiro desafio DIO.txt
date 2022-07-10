@@ -1,0 +1,8 @@
+PRIMEIRO DESAFIO DIO
+ - Criar um repositorio no github
+ - Editar o README
+ - Baixar para a maquina
+ - Criar um arquivo de texto
+ - Dar o comando git add .
+ - Dar o comando de commit
+ - E por fim subir o arquivo pro github de novo
