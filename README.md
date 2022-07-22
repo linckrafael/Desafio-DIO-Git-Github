@@ -1,10 +1,10 @@
-# DESAFIOS DIO
+# DESAFIOS DIO - Santander
 
-## Desafios DIO Git/Github
+## Git/Github
 Primeiro repositório do desafio Git/Github da DIO
 
-
 ## Interface login Instagram
+Reprodução da interface do login do Instagram
 
 
 ## Links Úteis
